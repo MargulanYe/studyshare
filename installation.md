@@ -4,7 +4,7 @@ StudyShare uses only open-source components and runs on any operating system.
 
 ## With Docker
 ```bash
-git clone https://github.com/[team]/studyshare.git
+git clone https://github.com/MargulanYe/studyshare.git
 cd studyshare
 docker compose up
 ```
