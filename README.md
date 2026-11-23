@@ -21,10 +21,9 @@ See [docs/installation.md](docs/installation.md).
 - [Code of Conduct](CODE_OF_CONDUCT.md)
 
 ## Maintainers
-Owned and maintained by the student team **[Team name]** as part of the course "Introduction to open source development":
-- [Member 1]
-- [Member 2]
-- [Member 3]
+Owned and maintained by the student team **No Aura Club** as part of the course "Introduction to open source development":
+- Yezhekhan Margulan
+- Maximov Arlan
 
 ## License
 Released under the [MIT License](LICENSE).
