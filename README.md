@@ -1,5 +1,7 @@
 # StudyShare
 
+> **Status:** planning stage (educational project, no working code yet)
+
 A free, open-source web platform where students find, share and review study materials.
 
 ## Project goals and SDGs
