@@ -14,6 +14,6 @@ We pledge to make participation in StudyShare a harassment-free experience for e
 - Uploading content that is illegal, hateful or harmful.
 
 ## Reporting and enforcement
-Report violations to the maintainers at [team e-mail]. Maintainers will review every report, may remove content or comments, and may warn, temporarily or permanently ban participants who violate this Code.
+Report violations to the maintainers at ezhekhanmargulan@gmail.com. Maintainers will review every report, may remove content or comments, and may warn, temporarily or permanently ban participants who violate this Code.
 
 This Code of Conduct is adapted from the Contributor Covenant, version 2.1: https://www.contributor-covenant.org/version/2/1/code_of_conduct/
